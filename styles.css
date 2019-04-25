@@ -95,18 +95,18 @@ body {
 
 #why {
   margin-bottom: 70px;
-  width: 80%;
+  width: 100%;
   /*background: #88000088;*/
 }
 
 h1 {
-  /*text-transform: uppercase;*/
+  text-transform: uppercase;
   font-size: 180%;
 }
 
 .whyCardsContainer {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .whyCard {
@@ -114,7 +114,7 @@ h1 {
   /*background: #88888888;*/
   width: 45%;
   margin-top: 50px;
-  text-align: justify;
+  text-align: center;
   text-align-last: center;
 
 }
