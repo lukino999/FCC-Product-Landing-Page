@@ -39,12 +39,14 @@ body {
 
 #header-img {
   margin: auto;
+  margin-left: 50px;
 }
 
 #nav-bar {
   vertical-align: center;
   /*margin: auto 20px auto auto;*/
   margin: auto;
+  margin-right: 10px;
 }
 
 .nav-link {
@@ -76,7 +78,8 @@ body {
 }
 
 #main {
-  max-width: 1024px;
+  /*max-width: 1024px;*/
+  width: 80%;
   margin: auto;
   margin-top: var(--offset-top);
   margin-bottom: 150px;
